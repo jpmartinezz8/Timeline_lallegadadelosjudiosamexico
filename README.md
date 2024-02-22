@@ -1,10 +1,10 @@
 # Timeline_lallegadadelosjudiosamexico
 
-1. Descripción del proyecto  
+## 1. Descripción del proyecto  
 
-Nombre del proyecto:  
+###### Nombre del proyecto:  
 
-La llegada de la comunidad judía a México. Línea del tiempo. 
+# La llegada de la comunidad judía a México. Línea del tiempo. 
 
 Va dirigido a la comunidad de la universidad Iberoamericana de la Ciudad de México. 
 
