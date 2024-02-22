@@ -1,15 +1,14 @@
-# Timeline_lallegadadelosjudiosamexico
+# La llegada de los judios a México  
 
 ## 1. Descripción del proyecto  
 
-###### Nombre del proyecto:  
+*Nombre del proyecto:*  
 
-# La llegada de la comunidad judía a México. Línea del tiempo. 
+**La llegada de la comunidad judía a México. Línea del tiempo.** 
 
 Va dirigido a la comunidad de la universidad Iberoamericana de la Ciudad de México. 
 
-
-Objetivos: 
+*Objetivos:* 
 
 Representar visualmente la inmigración judía a México a partir de la instauración de la Nueva España a partir de una línea del tiempo. 
 
@@ -30,12 +29,12 @@ Main Watchers. (2022, May 23). Por qué llegaron los Judíos a MÉXICO? [Video
 BBC News Mundo. (2019, October 8). España y los judíos sefardíes: quién se beneficia de la decisión de ofrecer la nacionalidad a esta comunidad. BBC News Mundo. https://www.bbc.com/mundo/noticias-internacional-49904014 
 
 
-2. Recolección y Curación de Datos 
+## 2. Recolección y Curación de Datos 
 
 Toda la información fue recopilada de fuentes digitales confiables y de documentos históricos. No se generaron datos directamente. Los datos se muestran en orden cronológico. Estos muestran la constante inmigración judía a México. Los títulos, textos y fotografías buscan destacar dicha progresión que va desde la instauración de la Nueva España hasta la última gran inmigración judía a México. 
 
  
-3. Análisis e Interpretación de Datos  
+## 3. Análisis e Interpretación de Datos  
 
 Se usó la página web Knightlab. Esta se especializa en líneas de tiempo. Aquí el link: 
 
@@ -44,17 +43,17 @@ https://timeline.knightlab.com
 El primer paso para armarse fue el llenado de datos crudos en una página de Google Sheets. En la misma página fue posible adjuntar imágenes y links para audiovisuales. 
 
  
-4. Visualización y Presentación  
+## 4. Visualización y Presentación  
 
 La línea del tiempo se inició con una investigación de la inmigración judía a México para comprender a profundidad la situación y las fechas más importantes. Aportó una evolución histórica de este suceso. Contribuyó a la narrativa desde las Humanidades Digitales de visualizar la progresión de un grupo intercultural presente en México a día de hoy: los judíos. 
 
  
-5. Documentación y Archivado 
+## 5. Documentación y Archivado 
 
 La documentación está almacenada en https://github.com/tmarquez-mx/Timeline_zotero/edit/main/README.md 
 
  
- 6. Diseminación y Comunicación  
+## 6. Diseminación y Comunicación  
 
 Este proyecto será presentado a la clase de Humanidades Digitales liderado por Teresa Márquez. De igual forma, la documentación pertinente.  
 
@@ -66,4 +65,4 @@ Para citar la línea del tiempo en formato APA 7 copia y pega la referencia sigu
 
  
 
-NOTA: Este proyecto proporciona una documentación de las etapas de un proyecto de la clase de humanidades digitales, asegurando que a largo plazo seguirá estando disponible. 
+*NOTA: Este proyecto proporciona una documentación de las etapas de un proyecto de la clase de humanidades digitales, asegurando que a largo plazo seguirá estando disponible.* 
